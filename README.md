@@ -6,11 +6,11 @@ Chimera is a pioneering startup dedicated to restoring mobility and independence
 Our mission is to revolutionize assistive technology, offering a non-invasive, intuitive solution that empowers quadriplegic individuals worldwide. With a scalable, industry-standard codebase, Chimera aims to lead the BCI domain and redefine human mobility.
 
 ## Features
-- **Brain-Driven Control**: Uses EEG to capture motor imagery for natural, thought-based operation.
-- **Real-Time Processing**: Ensures low-latency responses for seamless user experience.
-- **Modular Design**: Structured for easy maintenance, debugging, and future enhancements.
-- **Scalability**: Built to handle large datasets and grow with a global user base.
-- **Investor-Ready**: Professional organization and documentation to attract significant funding.
+- Uses EEG to capture motor imagery for natural, thought-based operation.
+- Ensures low-latency responses for seamless user experience.
+- Structured for easy maintenance, debugging, and future enhancements.
+- Built to handle large datasets and grow with a global user base.
+- Professional organization and documentation to attract significant funding.
 
 ## Installation
 To set up the Chimera project locally on Windows 11:
@@ -111,5 +111,5 @@ Proprietary. All rights reserved by Chimera Technologies.
 
 ## Contact
 For inquiries, funding opportunities, or support:
-- Email: [support@chimera-tech.com]
-- Website: [www.chimera-tech.com] (coming soon)
+- Email: [chimera.neurotech@gmail.com]
+- Website: (coming soon)
